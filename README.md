@@ -15,10 +15,22 @@ An interactive document management mini-app built with **React.js** and **Vite**
 - **Framer Motion**: For adding smooth animations to card interactions.
 - **React Icons**: For incorporating accessible icons.
 
+##  Getting Started
+
+### Prerequisites
+
+Ensure that **Node.js** and **npm** are installed.
+
+### Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/docs-mini-app.git
+
 ## 📂 Project Structure
 
 ```plaintext
 src/
 ├── Card.js         # Component for individual document cards
 ├── Foreground.js   # Component to render all draggable cards
-└── App.js          # Main app component
+└── App.js          # Main app component 
